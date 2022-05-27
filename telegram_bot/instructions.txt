@@ -1,0 +1,14 @@
+polling vs webhooks
+
+telegram bot api
+
+
+
+* pip install pyTelegramBotAPI *
+
+
+
+ignore warning and errors 
+
+run the file bindaas
+
